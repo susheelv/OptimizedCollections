@@ -1,5 +1,5 @@
 # OptimizedCollections
-Optimized collections in Swift
+Optimized Collections in Swift
 
 Here, I will be adding few optimized collections that I had to create at some point it my career. Hopefully, it will be useful for others who are looking for custom and optimized collections.
 
